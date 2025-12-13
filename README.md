@@ -137,14 +137,3 @@ Add screenshots under the **Screenshots** folder and reference them here.
 - 📈 Build a monthly **margin monitoring report** for management.  
 
 ---
-
-# 📁 Folder Structure
-
-```css
-Margin-Analysis-Project
-├── 📄 Margin Dashboard.xlsx
-├── 📄 Product Insights.xlsx
-├── 📄 Customer Insights.xlsx
-├── 📄 Cost Buildup.xlsx
-├── 📄 README.md
-└── 📁 Screenshots
